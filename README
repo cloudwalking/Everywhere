@@ -1,0 +1,1 @@
+An app. The screen is a map. It resolves your location, and shows you everything nearby. Basically it queries any API that takes a location param, and displays for you the information. In a very concise and complete way.
